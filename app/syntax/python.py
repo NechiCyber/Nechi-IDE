@@ -6,7 +6,8 @@ class PythonHighlighter(QSyntaxHighlighter):
         "def", "class", "if", "else", "elif", "while", "for", "return", 
         "import", "from", "try", "except", "finally", "with", "pass", 
         "break", "continue", "True", "False", "None", "self", "and", 
-        "or", "not", "is", "in", "lambda", "assert", "global", "nonlocal", "yield"
+        "or", "not", "is", "in", "lambda", "assert", "global", "nonlocal", "yield", 
+        "print", "input"
     ]
 
     def __init__(self, document):
