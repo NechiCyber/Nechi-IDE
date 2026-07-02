@@ -94,7 +94,7 @@ assets/screenshot.png
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/NIDE.git
+git clone https://github.com/NechiCyber/Nechi-IDE
 cd NIDE
 ```
 
